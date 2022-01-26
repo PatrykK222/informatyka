@@ -1,11 +1,12 @@
 ﻿using System;
 
-namespace infPK
+namespace zadanie
 {
     class Program
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("kocham zdz");
             Console.WriteLine("Hello World!");
         }
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adminzdz\\source\\repos\\infPK\\infPK\\infPK.csproj": {}
+    "G:\\InfPK\\infPK\\infPK\\infPK.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adminzdz\\source\\repos\\infPK\\infPK\\infPK.csproj": {
+    "G:\\InfPK\\infPK\\infPK\\infPK.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adminzdz\\source\\repos\\infPK\\infPK\\infPK.csproj",
+        "projectUniqueName": "G:\\InfPK\\infPK\\infPK\\infPK.csproj",
         "projectName": "infPK",
-        "projectPath": "C:\\Users\\adminzdz\\source\\repos\\infPK\\infPK\\infPK.csproj",
+        "projectPath": "G:\\InfPK\\infPK\\infPK\\infPK.csproj",
         "packagesPath": "C:\\Users\\adminzdz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adminzdz\\source\\repos\\infPK\\infPK\\obj\\",
+        "outputPath": "G:\\InfPK\\infPK\\infPK\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adminzdz\\AppData\\Roaming\\NuGet\\NuGet.Config",
